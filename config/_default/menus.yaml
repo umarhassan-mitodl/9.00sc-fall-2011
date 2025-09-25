@@ -1,0 +1,232 @@
+leftnav:
+- identifier: a054877a-419d-f49f-89be-dfb3073f58d1
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: 1b1519bf-3d32-3eea-62e8-361e4ee1395a
+  name: Meet Professor John Gabrieli
+  pageRef: /pages/syllabus/meet-professor-john-gabrieli
+  parent: a054877a-419d-f49f-89be-dfb3073f58d1
+  weight: 20
+- identifier: ad8e2a55-5c0f-805b-1c0f-5cda0d5fc9b9
+  name: Meet the TAs
+  pageRef: /pages/syllabus/meet-the-tas
+  parent: a054877a-419d-f49f-89be-dfb3073f58d1
+  weight: 30
+- identifier: b4984c35-7427-1ba3-965f-29e67252d227
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 40
+- identifier: 54378383-2e19-5046-fc73-49997af088ba
+  name: Structuring a Broad Survey Course
+  pageRef: /pages/instructor-insights/structuring-a-broad-survey-course
+  parent: b4984c35-7427-1ba3-965f-29e67252d227
+  weight: 50
+- identifier: 8937ce49-d58f-a613-51a8-58a2a435010c
+  name: Crafting Lectures That Inspire and Inform
+  pageRef: /pages/instructor-insights/crafting-lectures-that-inspire-and-inform
+  parent: b4984c35-7427-1ba3-965f-29e67252d227
+  weight: 60
+- identifier: af850264-7197-6cae-0c8d-72f135ef0d30
+  name: Bringing Demonstrations into the Classroom
+  pageRef: /pages/instructor-insights/bringing-demonstrations-into-the-classroom
+  parent: b4984c35-7427-1ba3-965f-29e67252d227
+  weight: 70
+- identifier: 02f75232-aa93-e1f2-dc8e-fe8ae23cd7fc
+  name: Maintaining Currency in a Rapidly Evolving Field
+  pageRef: /pages/instructor-insights/maintaining-currency-in-a-rapidly-evolving-field
+  parent: b4984c35-7427-1ba3-965f-29e67252d227
+  weight: 80
+- identifier: a81fc7d7-a253-4f91-909e-a35a0e30665a
+  name: Teaching Students to Evaluate Research
+  pageRef: /pages/instructor-insights/teaching-students-to-evaluate-research
+  parent: b4984c35-7427-1ba3-965f-29e67252d227
+  weight: 90
+- identifier: c5c3533b-2688-5392-8ef7-cf5bea62d6a4
+  name: Introduction
+  pageRef: /pages/introduction/
+  weight: 100
+- identifier: c4fbf121-480b-0561-6896-19683bc576cf
+  name: Science & Research
+  pageRef: /pages/science-research
+  weight: 110
+- identifier: bed1d5fc-a69c-1587-2254-555a74b510d1
+  name: 'Brain I: Structure and Functions'
+  pageRef: /pages/brain-i/
+  weight: 120
+- identifier: 6026acd4-95f8-e039-d1e8-11a66efa90b3
+  name: 'Brain II: Methods of Research'
+  pageRef: /pages/brain-ii/
+  weight: 130
+- identifier: ff6b4a3e-07ac-3e8b-b88b-bbf06269fda2
+  name: 'Discussion: Brain'
+  pageRef: /pages/brain-ii/discussion-brain
+  parent: 6026acd4-95f8-e039-d1e8-11a66efa90b3
+  weight: 140
+- identifier: 6006b7d1-2269-c4a2-b231-88660361c816
+  name: Vision I
+  pageRef: /pages/vision-i
+  weight: 150
+- identifier: 1a9cef0b-4270-5f26-8826-24e84aceb1db
+  name: Vision II
+  pageRef: /pages/vision-ii/
+  weight: 160
+- identifier: efa61a0f-c3f3-31be-4614-e94ca3ee9a1a
+  name: 'Discussion: Vision'
+  pageRef: /pages/vision-ii/discussion-vision
+  parent: 1a9cef0b-4270-5f26-8826-24e84aceb1db
+  weight: 170
+- identifier: f3463455-6b38-505f-cc40-71a3b43caa1b
+  name: Writing Assignment 1
+  pageRef: /pages/vision-ii/writing-assignment-1
+  parent: 1a9cef0b-4270-5f26-8826-24e84aceb1db
+  weight: 180
+- identifier: 504a0556-a3d6-731e-b23a-dd60493cf4d4
+  name: Consciousness
+  pageRef: /pages/consciousness/
+  weight: 190
+- identifier: ddb63dde-65ae-0e9b-a26c-599b321fc842
+  name: Attention
+  pageRef: /pages/attention/
+  weight: 200
+- identifier: 69560261-47e9-87b2-11c7-d60818b3adcf
+  name: 'Discussion: Attention'
+  pageRef: /pages/attention/discussion-attention
+  parent: ddb63dde-65ae-0e9b-a26c-599b321fc842
+  weight: 210
+- identifier: 2a1bb179-e346-dcc5-f5ed-9fcce0c33d1a
+  name: Exam 1
+  pageRef: /pages/exam-1
+  weight: 220
+- identifier: 3f7aca32-309e-ae8c-98f0-cbd01eab2677
+  name: Memory I
+  pageRef: /pages/memory-i
+  weight: 230
+- identifier: ac69f1eb-8793-b39a-98cb-15527df3770a
+  name: Learning
+  pageRef: /pages/learning/
+  weight: 240
+- identifier: dd2585a0-41b8-80df-fe5a-97414e3b4d5e
+  name: 'Discussion: Learning'
+  pageRef: /pages/learning/discussion-learning
+  parent: ac69f1eb-8793-b39a-98cb-15527df3770a
+  weight: 250
+- identifier: 09f6f277-0863-76d7-7bf9-7f807f53d99f
+  name: 'Memory II: Amnesia and Memory Systems'
+  pageRef: /pages/memory-ii/
+  weight: 260
+- identifier: f532f8a4-70da-048e-aaf5-8954f43c338e
+  name: 'Discussion: Memory'
+  pageRef: /pages/memory-ii/discussion-memory
+  parent: 09f6f277-0863-76d7-7bf9-7f807f53d99f
+  weight: 270
+- identifier: 0f5b6ec8-73d9-1de3-c9a7-12f95930c2bf
+  name: Language
+  pageRef: /pages/language-1/
+  weight: 280
+- identifier: a024ee23-8c4f-fa34-78d4-a55e94731f03
+  name: 'Discussion: Language'
+  pageRef: /pages/language-1/discussion-language
+  parent: 0f5b6ec8-73d9-1de3-c9a7-12f95930c2bf
+  weight: 290
+- identifier: 13877f0d-e096-cd97-097b-21b89a257f99
+  name: Thinking
+  pageRef: /pages/thinking
+  weight: 300
+- identifier: 6d9b0bff-490c-c5ef-5d14-755460c9afd0
+  name: Intelligence
+  pageRef: /pages/intelligence/
+  weight: 310
+- identifier: 05a68009-c3c6-23d2-a788-f8858b6ebf30
+  name: 'Discussion: Thinking & Intelligence'
+  pageRef: /pages/intelligence/discussion-thinking-intelligence
+  parent: 6d9b0bff-490c-c5ef-5d14-755460c9afd0
+  weight: 320
+- identifier: b4449121-7bca-c751-42a3-a4cbf60a35fa
+  name: Emotion & Motivation
+  pageRef: /pages/emotion-motivation/
+  weight: 330
+- identifier: 8f18b72f-2e72-4645-1a9f-00323d721732
+  name: 'Discussion: Emotion'
+  pageRef: /pages/emotion-motivation/discussion-emotion
+  parent: b4449121-7bca-c751-42a3-a4cbf60a35fa
+  weight: 340
+- identifier: 6ec4e85f-0538-52ee-6466-8ad78b65ec3a
+  name: Exam 2
+  pageRef: /pages/exam-2
+  weight: 350
+- identifier: 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21
+  name: Personality
+  pageRef: /pages/personality/
+  weight: 360
+- identifier: 14f3a80a-3abe-0897-f998-844e35ba544f
+  name: 'Discussion: Personality'
+  pageRef: /pages/personality/discussion-personality
+  parent: 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21
+  weight: 370
+- identifier: 997bafe5-99f3-c3e0-e5a8-007934413597
+  name: Child Development
+  pageRef: /pages/child-development/
+  weight: 380
+- identifier: 72174c8c-93bb-ea97-0170-d3fdf0aed22e
+  name: Writing Assignment 2
+  pageRef: /pages/child-development/writing-assignment-2
+  parent: 997bafe5-99f3-c3e0-e5a8-007934413597
+  weight: 390
+- identifier: 16d028ce-a283-f227-fed3-766ed19d3957
+  name: Adult Development
+  pageRef: /pages/adult-development/
+  weight: 400
+- identifier: 37308ab8-c07c-99c4-b518-1a3374f68ecb
+  name: 'Discussion: Development'
+  pageRef: /pages/adult-development/discussion-development
+  parent: 16d028ce-a283-f227-fed3-766ed19d3957
+  weight: 410
+- identifier: 7c2c180c-bd50-5e62-bbf0-62d2d4926cae
+  name: Stress
+  pageRef: /pages/stress/
+  weight: 420
+- identifier: eb5da804-5a2a-1df9-f243-8af807f2017b
+  name: 'Discussion: Stress'
+  pageRef: /pages/stress/discussion-stress
+  parent: 7c2c180c-bd50-5e62-bbf0-62d2d4926cae
+  weight: 430
+- identifier: 3d51e6ac-e4c7-aca1-640b-d0dc09600b04
+  name: Psychopathology I
+  pageRef: /pages/psychopathology-i/
+  weight: 440
+- identifier: efd8e956-049b-f53f-d560-dda29527618d
+  name: Psychopathology II
+  pageRef: /pages/psychopathology-ii/
+  weight: 450
+- identifier: db9d439e-16c2-6213-258d-67445f064505
+  name: 'Discussion: Psychopathology'
+  pageRef: /pages/psychopathology-ii/discussion-psychopathology
+  parent: efd8e956-049b-f53f-d560-dda29527618d
+  weight: 460
+- identifier: 593fc2b0-b34d-b820-6593-ba531d39e56d
+  name: '"Extra Credit" Writing Assignment'
+  pageRef: /pages/psychopathology-ii/extra-credit-writing-assignment
+  parent: efd8e956-049b-f53f-d560-dda29527618d
+  weight: 470
+- identifier: ccc3861a-7d57-ad0a-f405-18e6fb5674e7
+  name: Social Psychology I
+  pageRef: /pages/social-psychology-i/
+  weight: 480
+- identifier: 25a2c26c-7f10-9797-3af3-7971963c5415
+  name: Social Psychology II
+  pageRef: /pages/social-psychology-ii/
+  weight: 490
+- identifier: 77c8fc5b-e4ad-5423-475a-195d788a8976
+  name: 'Discussion: Social Psychology'
+  pageRef: /pages/social-psychology-ii/discussion-social-psychology
+  parent: 25a2c26c-7f10-9797-3af3-7971963c5415
+  weight: 500
+- identifier: 28acc476-566c-2161-f7cb-e0af48ee5d80
+  name: 'Conclusions: Evolutionary Psychology, Happiness'
+  pageRef: /pages/conclusions
+  weight: 510
+- identifier: 1a6a0f8c-ca91-9e83-c67f-a4ac0d656778
+  name: Exam 3
+  pageRef: /pages/final-exam
+  weight: 520
