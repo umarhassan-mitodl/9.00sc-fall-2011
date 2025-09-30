@@ -4,6 +4,8 @@ description: ''
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/9b6c63266db694e643639b481af17300_MYMYXhR2Ppw.pdf
 file_size: 106020
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

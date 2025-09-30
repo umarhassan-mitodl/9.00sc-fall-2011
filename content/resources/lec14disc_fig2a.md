@@ -4,6 +4,8 @@ description: ''
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/15304ce3a834115e43f5fcee69e7a65f_lec14disc_Fig2a.jpg
 file_size: 8403
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

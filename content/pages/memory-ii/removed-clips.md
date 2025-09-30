@@ -2,6 +2,8 @@
 content_type: page
 description: This page provides details about portions of the lecture video that were
   removed due to copyright restrictions or other considerations.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Memory II: Amnesia and Memory Systems'

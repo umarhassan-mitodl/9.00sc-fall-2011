@@ -4,6 +4,8 @@ description: ''
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/14ca5166fdcf2b9da1903b3366aeb6ed_9.00sc-lec10-mem1.jpg
 file_size: 4594
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

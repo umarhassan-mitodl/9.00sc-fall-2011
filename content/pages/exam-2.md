@@ -2,6 +2,8 @@
 content_type: page
 description: This page presents Exam 2 problems and solutions, along with practice
   problems and solutions.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Exam 2

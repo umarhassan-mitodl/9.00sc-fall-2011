@@ -4,6 +4,8 @@ description: ''
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/c22a4ae1781dc9f2d2e85cd6df10f911_9-00SC_classroom-1.png
 file_size: 96034
 file_type: image/png
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

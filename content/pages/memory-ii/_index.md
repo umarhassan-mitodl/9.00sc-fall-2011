@@ -2,6 +2,8 @@
 content_type: page
 description: ''
 draft: false
+hide_download: true
+hide_download_original: null
 title: 'Memory II: Amnesia and Memory Systems'
 uid: 09f6f277-0863-76d7-7bf9-7f807f53d99f
 ---

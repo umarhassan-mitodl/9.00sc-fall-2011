@@ -4,6 +4,8 @@ description: ''
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/1ee509272afd746139f7b92fe0875758_9.00sc-lec23-socpsych2.jpg
 file_size: 4091
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

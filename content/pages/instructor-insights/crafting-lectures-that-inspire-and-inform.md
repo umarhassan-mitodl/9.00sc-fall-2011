@@ -2,6 +2,8 @@
 content_type: page
 description: 'In this section, Prof. Gabrieli discusses how he uses lectures to inspire
   students to engage with the material and master the details. '
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

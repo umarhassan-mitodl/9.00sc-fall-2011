@@ -4,6 +4,8 @@ description: ''
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/8a714aa46e9ed013caf51cca4c76a7bb_atten_visual_search3.jpg
 file_size: 7543
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
