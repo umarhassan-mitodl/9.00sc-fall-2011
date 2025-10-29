@@ -64,31 +64,31 @@ CONTEXT
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Animation
 {{< tdclose >}}{{< tdopen >}}
-MIT Perceptual Science Group. [Lightness Perception and Lightness Illusions](http://persci.mit.edu/gallery/lightness_illusions).
+MIT Perceptual Science Group. {{% resource_link "4a47dd10-3d04-4cc7-9aae-140ab9686486" "Lightness Perception and Lightness Illusions" %}}.
 {{< tdclose >}}{{< tdopen >}}
 More from this source used in the lecture video: eleven animations based on a paper by Edward H. Adelson.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Animation
 {{< tdclose >}}{{< tdopen >}}
-Bach, Michael. [92 Visual Phenomena & Optical Illusions](http://www.michaelbach.de/ot/index.html).
+Bach, Michael. {{% resource_link "41888a59-df9e-46f4-9225-2905390cb3af" "92 Visual Phenomena & Optical Illusions" %}}.
 {{< tdclose >}}{{< tdopen >}}
 More from this source used in the lecture video: animations of optical illusions.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Videos
 {{< tdclose >}}{{< tdopen >}}
-[Visual illusion experiments](http://www.richardgregory.org/experiments/) by Prof. Richard Gregory
+{{% resource_link "408e564a-c1dd-49a0-8978-089ac48bdcc8" "Visual illusion experiments" %}} by Prof. Richard Gregory
 {{< tdclose >}}{{< tdopen >}}
 More from this source used in the lecture video: includes the rotating Charlie Chaplin mask illusion.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Web resource
 {{< tdclose >}}{{< tdopen >}}
-[History of Psychology: Contemporary Foundations](https://www.learner.org/series/discovering-psychology/explorations/history-of-psychology-contemporary-foundations/). _Discovering Psychology._ WGBH Educational Foundation, 2001.
+{{% resource_link "73a7ae0e-4885-4d93-8f51-add1ba78949b" "History of Psychology: Contemporary Foundations" %}}. _Discovering Psychology._ WGBH Educational Foundation, 2001.
 {{< tdclose >}}{{< tdopen >}}
 Timeline of key events, publications and perspectives in the development of psychology, from late 19th century to the present.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Textbook supplement
 {{< tdclose >}}{{< tdopen >}}
-Study materials for Ch. 1, "Psychology: Yesterday and Today." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Ch. 1, "Psychology: Yesterday and Today." In {{% resource_link "6eb9ea0a-97a2-4e4b-b644-c6c5373611e7" "Kosslyn & Rosenberg, _Psychology in Context_, 3/e" %}} (Pearson, 2007)
 {{< tdclose >}}{{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
