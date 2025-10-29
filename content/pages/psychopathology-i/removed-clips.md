@@ -14,6 +14,6 @@ uid: 283e69d6-7e3e-05a7-d0a1-52e3af97551a
 
 ## Removed Clip 1: "Schizophrenia: Symptoms"
 
-"Schizophrenia: Symptoms." [Episode 26 in *The Brain*](https://www.learner.org/series/the-brain-teaching-modules/schizophrenia-symptoms/). Annenberg Learner / Colorado State University, 1997.
+"Schizophrenia: Symptoms." {{% resource_link "e4e48343-7408-4d58-860e-c0a15c7da19b" "Episode 26 in *The Brain*" %}}. Annenberg Learner / Colorado State University, 1997.
 
 « {{% resource_link "3d51e6ac-e4c7-aca1-640b-d0dc09600b04" "Previous" %}}

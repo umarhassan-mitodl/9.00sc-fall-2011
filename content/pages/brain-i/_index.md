@@ -84,7 +84,7 @@ CONTEXT
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Web resource
 {{< tdclose >}}{{< tdopen >}}
-[Comparative Mammalian Brain Collections](http://www.brainmuseum.org) (aka "Brain Museum")
+{{% resource_link "9ebf9a2c-be35-4e3f-84c1-99d99f823788" "Comparative Mammalian Brain Collections" %}} (aka "Brain Museum")
 {{< tdclose >}}{{< tdopen >}}
 Resources on brain anatomy for a wide range of mammals
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -102,7 +102,7 @@ An overview of current understanding about the human brain, recommended by the T
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Textbook supplement
 {{< tdclose >}}{{< tdopen >}}
-Study materials for Chapter 3, "The Biology of Mind and Behavior," in [Study Site for *Psychology in Context*, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson Education, 2007)
+Study materials for Chapter 3, "The Biology of Mind and Behavior," in {{% resource_link "6eb9ea0a-97a2-4e4b-b644-c6c5373611e7" "Study Site for *Psychology in Context*, 3/e" %}} (Pearson Education, 2007)
 {{< tdclose >}}{{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

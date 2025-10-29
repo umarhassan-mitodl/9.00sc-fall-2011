@@ -73,19 +73,19 @@ CONTEXT
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Supplemental videos
 {{< tdclose >}}{{< tdopen >}}
-[*The World of Abnormal Psychology*](https://www.learner.org/series/the-world-of-abnormal-psychology/). Annenberg Learner, 1992.
+{{% resource_link "fd167ec5-a910-4770-8187-7a907a61914c" "*The World of Abnormal Psychology*" %}}. Annenberg Learner, 1992.
 {{< tdclose >}}{{< tdopen >}}
 13 1-hour videos on various psychopathology topics
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Supplemental video
 {{< tdclose >}}{{< tdopen >}}
-NIMH.gov. "ADHD: Signs, Symptoms, Research." Sept. 10, 2010. YouTube. Accessed March 9, 2012. [http://www.youtube.com/watch?v=IgCL79Jv0lc](http://www.youtube.com/watch?v=IgCL79Jv0lc)
+NIMH.gov. "ADHD: Signs, Symptoms, Research." Sept. 10, 2010. YouTube. Accessed March 9, 2012. {{% resource_link "cbb4137f-c6b7-44df-ae82-3fe293b66ea3" "http://www.youtube.com/watch?v=IgCL79Jv0lc" %}}
 {{< tdclose >}}{{< tdopen >}}
 Video about ADHD by the U.S. National Institute of Mental Health.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Textbook supplement
 {{< tdclose >}}{{< tdopen >}}
-Study materials for Ch. 15, "Psychological Disorders: Healing Actions, Healing Words." In [Kosslyn & Rosenberg, *Psychology in Context*, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Ch. 15, "Psychological Disorders: Healing Actions, Healing Words." In {{% resource_link "6eb9ea0a-97a2-4e4b-b644-c6c5373611e7" "Kosslyn & Rosenberg, *Psychology in Context*, 3/e" %}} (Pearson, 2007)
 {{< tdclose >}}{{< tdopen >}}
 Practice test questions, flashcards, and media for this related textbook
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

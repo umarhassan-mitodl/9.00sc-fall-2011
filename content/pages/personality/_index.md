@@ -49,7 +49,7 @@ Read the following before watching the lecture video.
 > 
 > ### Video Resources
 > 
-> - [Big Five Personality Test](http://www.outofservice.com/bigfive/) (Online version of a handout in class)
+> - {{% resource_link "5433f288-ed25-433d-8789-8d817b0638c0" "Big Five Personality Test" %}} (Online version of a handout in class)
 > - {{% resource_link "4da7db14-0609-4228-4ec2-1f32709f01b9" "Lecture Slides (PDF - 1.6MB)" %}}
 
 ## Discussion: Personality
@@ -115,7 +115,7 @@ Classic in the field, Prof. Gabrieli started the lecture with a quote from this 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Textbook supplement
 {{< tdclose >}}{{< tdopen >}}
-Study materials for Ch. 11, "Personality: Vive la difference!" In [Kosslyn & Rosenberg, *Psychology in Context*, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Ch. 11, "Personality: Vive la difference!" In {{% resource_link "6eb9ea0a-97a2-4e4b-b644-c6c5373611e7" "Kosslyn & Rosenberg, *Psychology in Context*, 3/e" %}} (Pearson, 2007)
 {{< tdclose >}}{{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

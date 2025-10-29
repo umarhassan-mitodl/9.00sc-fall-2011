@@ -51,7 +51,7 @@ Read the following before watching the lecture video.
 > 
 > ### Video Resources
 > 
-> - Higher resolution version of animation played during lecture: cortical brain growth, ages 4 to 21, top view ([MOV](http://www.pnas.org/content/101/21/8174/suppl/DC1#F3)). From Gogtay, N., et al. "[Dynamic Mapping of Human Cortical Development During Childhood Through Early Adulthood](http://dx.doi.org/10.1073/pnas.0402680101)." _PNAS_ 101, no. 21 (2004): 8174-9.
+> - Higher resolution version of animation played during lecture: cortical brain growth, ages 4 to 21, top view ({{% resource_link "9af6966f-84dd-4ff7-bd93-32a363f43fe0" "MOV" %}}). From Gogtay, N., et al. "{{% resource_link "1b8b77a6-5414-4f02-9806-f1eedb0a5b78" "Dynamic Mapping of Human Cortical Development During Childhood Through Early Adulthood" %}}." _PNAS_ 101, no. 21 (2004): 8174-9.
 > - {{% resource_link e6fd1fa0-b4e0-a529-0f3a-1aeb3ccb0f43 "Lecture Slides (PDF - 4.5MB)" %}}
 
 ## Discussion: Brain
@@ -95,25 +95,25 @@ CONTEXT
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Video
 {{< tdclose >}}{{< tdopen >}}
-"[Jill Bolte Taylor's stroke of insight](http://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight.html)." February. 2008. TED Talks. Accessed August. 19, 2011. \[00:18:42\]
+"{{% resource_link "f2015ddf-021f-44cb-864b-c918828fbc63" "Jill Bolte Taylor's stroke of insight" %}}." February. 2008. TED Talks. Accessed August. 19, 2011. \[00:18:42\]
 {{< tdclose >}}{{< tdopen >}}
 A neuroscientist describes her experience having a massive stroke and subsequent recovery
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Web resource
 {{< tdclose >}}{{< tdopen >}}
-Johnson, K. A., and J. A. Becker. [The Whole Brain Atlas](http://www.med.harvard.edu/AANLIB/home.html).
+Johnson, K. A., and J. A. Becker. {{% resource_link "9ae6bbd8-ce25-4c94-bd1e-72ed7e26e13f" "The Whole Brain Atlas" %}}.
 {{< tdclose >}}{{< tdopen >}}
 Includes a detailed primer on neuroimaging and a library of brain images
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Video
 {{< tdclose >}}{{< tdopen >}}
-NIMHgov. "The Brain's Inner Workings Part II: Cognition." Aug. 12, 2009. YouTube. Accessed Feb. 14, 2012. [http://www.youtube.com/watch?v=PKj9i1qS08M](http://www.youtube.com/watch?v=PKj9i1qS08M)
+NIMHgov. "The Brain's Inner Workings Part II: Cognition." Aug. 12, 2009. YouTube. Accessed Feb. 14, 2012. {{% resource_link "3f8205e2-5cfb-43e9-845c-36e2267bcbec" "http://www.youtube.com/watch?v=PKj9i1qS08M" %}}
 {{< tdclose >}}{{< tdopen >}}
 Short video on imaging techniques that illustrate the neurological basis of higher brain function
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Textbook supplement
 {{< tdclose >}}{{< tdopen >}}
-Study materials for Chapter 3, "The Biology of Mind and Behavior," in [Study Site for _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson Education, 2007)
+Study materials for Chapter 3, "The Biology of Mind and Behavior," in {{% resource_link "6eb9ea0a-97a2-4e4b-b644-c6c5373611e7" "Study Site for _Psychology in Context_, 3/e" %}} (Pearson Education, 2007)
 {{< tdclose >}}{{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
