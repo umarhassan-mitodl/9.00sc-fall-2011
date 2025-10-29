@@ -28,12 +28,12 @@ Your paper should be 2–3 pages long, double-spaced, 12 point font.
 
 ## Sources
 
-Loftus, E. "[Creating False Memories](http://faculty.washington.edu/eloftus/Articles/sciam.htm)." *Scientific American* 277, no. 3 (1997): 70–5.
+Loftus, E. "{{% resource_link "9110c0a0-ab69-4f3f-96a3-7bbeccbfc769" "Creating False Memories" %}}." *Scientific American* 277, no. 3 (1997): 70–5.
 
-Loftus, E. "[The Reality of Repressed Memories](http://faculty.washington.edu/eloftus/Articles/lof93.htm)." *American Psychologist* 48 (1993): 518–37.
+Loftus, E. "{{% resource_link "a1b68627-6e22-4931-9321-b84f72d2fb5a" "The Reality of Repressed Memories" %}}." *American Psychologist* 48 (1993): 518–37.
 
-Geraerts, E., et al. "The Reality of Recovered Memories." *Psychological Science* 18, no. 7 (2007): 564–8. ([PDF](https://www.researchgate.net/profile/Elizabeth-Loftus/publication/14692369_The_Reality_of_Reptessed_Memories/links/0c96051d455eb984e1000000/The-Reality-of-Reptessed-Memories.pdf))
+Geraerts, E., et al. "The Reality of Recovered Memories." *Psychological Science* 18, no. 7 (2007): 564–8. ({{% resource_link "628c5298-0040-4dd9-8b91-585a37fedfcc" "PDF" %}})
 
-Geraerts, E., et al. "[Cognitive Mechanisms Underlying Recovered-Memory Experiences of Childhood Sexual Abuse](http://dx.doi.org/10.1111/j.1467-9280.2008.02247.x)." *Psychological Science* 20, no. 1 (2009): 92–8.
+Geraerts, E., et al. "{{% resource_link "65b72e9a-0646-408c-8722-8a7e90e6e3c3" "Cognitive Mechanisms Underlying Recovered-Memory Experiences of Childhood Sexual Abuse" %}}." *Psychological Science* 20, no. 1 (2009): 92–8.
 
 « {{% resource_link "997bafe5-99f3-c3e0-e5a8-007934413597" "Previous" %}}

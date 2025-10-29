@@ -106,7 +106,7 @@ Watch the following PBS video blog to see an experiment and explanation of the p
 
 ### Inattentional Blindness
 
-To experience another limitation of your attention, watch [this video clip](https://youtu.be/FWVDi4aKC-M?si=Ia_2z4pHWRtxjrtv). Can you figure out how the two scenes differ?
+To experience another limitation of your attention, watch {{% resource_link "807e2535-3043-4325-8781-715d41da0294" "this video clip" %}}. Can you figure out how the two scenes differ?
 
 {{< div-with-class "reveal2" >}}
 
@@ -120,7 +120,7 @@ It's the plane's engine that is appearing and disappearing. This shows just how 
 
 ### Attentional Blink
 
-While change blindness and inattentional blindness reveal the *spatial* limitations of our attention (i.e., we can't focus on everything in our field of vision, and we often don't notice things that we're not attending to), attentional blink is a *temporal* limitation. Follow [this link](http://psych.hanover.edu/javatest/cle/cognition/cognition/attentionalblink_instructions.html) to an experiment on attentional blink, in which you'll be able to manipulate some of the variables and see your results.
+While change blindness and inattentional blindness reveal the *spatial* limitations of our attention (i.e., we can't focus on everything in our field of vision, and we often don't notice things that we're not attending to), attentional blink is a *temporal* limitation. Follow {{% resource_link "cbccb1e4-72ab-4270-bc93-e844cc4068c8" "this link" %}} to an experiment on attentional blink, in which you'll be able to manipulate some of the variables and see your results.
 
 The idea is that, with things that come rapidly in time, we tend not to notice something that happens shortly after something else happens. So, for example, if something happens, and then something happens immediately after, you're likely to notice it too, but if it happens slightly afterwards, you're likely to miss it. You're almost at chance for saying whether it happened or not. And then as things spread out in time you begin to notice them more and more.
 
@@ -128,7 +128,7 @@ The idea is that, with things that come rapidly in time, we tend not to notice s
 
 {{< resource uuid="70e6db00-ae91-0c76-52ea-08589cadd8b8" >}}
 
-© Sinauer Associates, Inc. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/pages/privacy-and-terms-of-use/.](https://ocw.mit.edu/pages/privacy-and-terms-of-use/)
+© Sinauer Associates, Inc. All rights reserved. This content is excluded from our Creative Commons license. For more information, see {{% resource_link "7d02cc56-8391-47f9-a14f-ff0a6dc4f0cf" "http://ocw.mit.edu/pages/privacy-and-terms-of-use/." %}}
 
 As this graph shows, if the first target and the second target are 100ms apart, the probability of seeing the second (after seeing the first) is relatively high. However, with a separation of 200-300ms, your chances drop. Accuracy improves with greater separation in time.
 
