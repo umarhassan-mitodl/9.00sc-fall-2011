@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Language
@@ -26,7 +24,7 @@ Language is an amazing thing. How do we learn and use language in our everyday l
 
 _Keywords_: phoneme, speech, comprehension, hearing, writing, reading, phonology, syntax, evoked response potential (ERP), meaning, pragmatics, aphasia, language acquisition
 
-_Image courtesy of [zinjixmaggir](http://www.flickr.com/photos/dilaudid/4954719152/) on Flickr (aka Markus Koljonen, [http://iki.fi/markus.koljonen](http://iki.fi/markus.koljonen))._
+_Image courtesy of {{% resource_link "1f478c54-9f62-4032-94d9-37da4909053f" "zinjixmaggir" %}} on Flickr (aka Markus Koljonen, {{% resource_link "bdf2c760-ec88-48d1-801e-9fc3c142e2a5" "http://iki.fi/markus.koljonen" %}})._
 
 
 {{< tdclose >}}
@@ -152,7 +150,7 @@ CONTEXT
 Supplemental reading
 {{< tdclose >}}
 {{< tdopen >}}
-Crystal, D. _How Language Works: How Babies Babble, Words Change Meaning, and Languages Live Or Die_. Penguin, 2007. ISBN: 9781583332917. \[Preview with [Google Books](http://books.google.com/books?id=f1DVuMvbf7IC&pg=PAfrontcover)\]
+Crystal, D. _How Language Works: How Babies Babble, Words Change Meaning, and Languages Live Or Die_. Penguin, 2007. ISBN: 9781583332917. \[Preview with {{% resource_link "36f02e61-03c8-4f6a-b664-d745684625af" "Google Books" %}}\]
 {{< tdclose >}}
 {{< tdopen >}}
 An introduction to lingustics written for the layperson, recommended by the TAs.
@@ -164,7 +162,7 @@ An introduction to lingustics written for the layperson, recommended by the TAs.
 Blog
 {{< tdclose >}}
 {{< tdopen >}}
-[Language Log](http://languagelog.ldc.upenn.edu/nll/)
+{{% resource_link "78db89fe-09ca-4119-b0c1-7ba23448309a" "Language Log" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Covers language in current events, run by University of Pennsylvania phonetician Mark Liberman with multiple guest linguists
@@ -176,7 +174,7 @@ Covers language in current events, run by University of Pennsylvania phonetician
 Web resource
 {{< tdclose >}}
 {{< tdopen >}}
-Lewis, M. Paul (editor). [_Ethnologue: Languages of the World_](http://www.ethnologue.com/). Sixteenth edition. SIL International, 2009.
+Lewis, M. Paul (editor). {{% resource_link "d366cc0f-ebe9-44f8-8b6b-6080c9094784" "_Ethnologue: Languages of the World_" %}}. Sixteenth edition. SIL International, 2009.
 {{< tdclose >}}
 {{< tdopen >}}
 Reference work on languages of the world, with web resources and preview pages of print edition
@@ -188,7 +186,7 @@ Reference work on languages of the world, with web resources and preview pages o
 Wikipedia
 {{< tdclose >}}
 {{< tdopen >}}
-[Genie (feral child)](http://en.wikipedia.org/wiki/Genie_%28feral_child%29)
+{{% resource_link "48af6959-0554-4050-8070-845445997c99" "Genie (feral child)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Example discussed at end of class.
@@ -200,7 +198,7 @@ Example discussed at end of class.
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Ch. 8 "Language and Thinking: What Humans Do Best." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Ch. 8 "Language and Thinking: What Humans Do Best." In {{% resource_link "6eb9ea0a-97a2-4e4b-b644-c6c5373611e7" "Kosslyn & Rosenberg, _Psychology in Context_, 3/e" %}} (Pearson, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook

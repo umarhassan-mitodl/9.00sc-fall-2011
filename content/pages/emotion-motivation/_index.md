@@ -117,7 +117,7 @@ CONTEXT
 TV series
 {{< tdclose >}}
 {{< tdopen >}}
-["Facing Our Fears."](http://www.pbs.org/thisemotionallife/series/episodes/2) Episode 2 from "This Emotional Life." TV series, PBS, 2010.
+{{% resource_link "a90b766f-aae5-4a8f-94d3-a2587b9a19dc" "\"Facing Our Fears.\"" %}} Episode 2 from "This Emotional Life." TV series, PBS, 2010.
 {{< tdclose >}}
 {{< tdopen >}}
 This episode explores the role of emotions like anger, fear, anxiety, and despair have on our lives, touching on many ideas Prof. Gabrieli goes over in lecture
@@ -129,7 +129,7 @@ This episode explores the role of emotions like anger, fear, anxiety, and despai
 Website
 {{< tdclose >}}
 {{< tdopen >}}
-[Paul Ekman's website](http://www.paulekman.com/)
+{{% resource_link "7abe0c8b-a41a-425f-9d08-ec769a6e8824" "Paul Ekman's website" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Website of Paul Ekman, famous pioneer researcher on emotion mentioned in class
@@ -141,7 +141,7 @@ Website of Paul Ekman, famous pioneer researcher on emotion mentioned in class
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Ch. 10, "Emotion and Motivations: Feeling and Striving." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Ch. 10, "Emotion and Motivations: Feeling and Striving." In {{% resource_link "6eb9ea0a-97a2-4e4b-b644-c6c5373611e7" "Kosslyn & Rosenberg, _Psychology in Context_, 3/e" %}} (Pearson, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook

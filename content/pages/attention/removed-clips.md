@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Attention
@@ -19,20 +17,20 @@ Removed Clip 1: The Gradual Change Test
 
 {{< resource 4c8411de-25b8-bbad-d0a7-23616899f4f7 >}}
 
-This video is from [profsimons](http://www.youtube.com/user/profsimons) via YouTube, and is not covered under our [Creative Commons license](/terms/#cc).
+This video is from {{% resource_link "3788bea4-e0c5-4bf3-8f4e-b9e76e8de7e4" "profsimons" %}} via YouTube, and is not covered under our [Creative Commons license](/terms/#cc).
 
 Removed Clip 2: The Monkey Business Illusion
 --------------------------------------------
 
 {{< resource 4f11917a-7ec6-73c2-f2bb-53c2470caf21 >}}
 
-This video is from [profsimons](http://www.youtube.com/user/profsimons) via YouTube, and is not covered under our [Creative Commons license](/terms/#cc).
+This video is from {{% resource_link "3788bea4-e0c5-4bf3-8f4e-b9e76e8de7e4" "profsimons" %}} via YouTube, and is not covered under our [Creative Commons license](/terms/#cc).
 
 Removed Clip 3: The "Door" Study
 --------------------------------
 
 {{< resource 389575bd-82a8-e091-4b26-5a42ed5efd04 >}}
 
-This video is from [profsimons](http://www.youtube.com/user/profsimons) via YouTube, and is not covered under our [Creative Commons license](/terms/#cc).
+This video is from {{% resource_link "3788bea4-e0c5-4bf3-8f4e-b9e76e8de7e4" "profsimons" %}} via YouTube, and is not covered under our [Creative Commons license](/terms/#cc).
 
 « {{% resource_link ddb63dde-65ae-0e9b-a26c-599b321fc842 "Previous" %}}

@@ -16,7 +16,7 @@ uid: b7f97161-49d0-b07d-6f9a-7c1ef6dfdeea
 Removed Clip 1: Excerpt from "The Divided Brain"
 ------------------------------------------------
 
-Excerpt (01:30 to 06:45) from "The Divided Brain." Episode 5 in _[The Brain](https://www.learner.org/series/the-brain-teaching-modules/the-divided-brain/)_. Annenberg Learner / Colorado State University, 1997. \[Scroll down to Episode 5 and click on the "VoD" box\]
+Excerpt (01:30 to 06:45) from "The Divided Brain." Episode 5 in _{{% resource_link "d86735ca-d9dc-4e23-95bc-e2b1678dfaee" "The Brain" %}}_. Annenberg Learner / Colorado State University, 1997. \[Scroll down to Episode 5 and click on the "VoD" box\]
 
 Removed Clip 2: "The Man With Two Brains"
 -----------------------------------------

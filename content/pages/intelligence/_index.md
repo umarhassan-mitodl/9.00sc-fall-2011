@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Intelligence
@@ -26,7 +24,7 @@ How much is intelligence determined by our childhood environment vs. our genetic
 
 _Keywords_: IQ, testing, education, Flynn effect, nature vs. nurture, acheivement gap, stereotype threat, Head Start
 
-_How well do standardized tests measure intelligence? (Photo courtesy of [biologycorner](http://www.flickr.com/photos/40964293@N07/4728093020) on Flickr. License CC BY-NC.)_
+_How well do standardized tests measure intelligence? (Photo courtesy of {{% resource_link "f13f4143-e2dd-48a9-9d19-a3dd3a1ae688" "biologycorner" %}} on Flickr. License CC BY-NC.)_
 
 
 {{< tdclose >}}
@@ -147,7 +145,7 @@ CONTEXT
 Supplemental video
 {{< tdclose >}}
 {{< tdopen >}}
-jayrandall22011. "Talking Twin Babies – Part 2." Feb. 14, 2011. YouTube. Accessed Jan. 9, 2012. [http://www.youtube.com/watch?v=\_JmA2ClUvUY](http://www.youtube.com/watch?v=_JmA2ClUvUY)
+jayrandall22011. "Talking Twin Babies – Part 2." Feb. 14, 2011. YouTube. Accessed Jan. 9, 2012. {{% resource_link "2b524651-155c-44ba-b9b6-3fab5e68a7f9" "http://www.youtube.com/watch?v=\_JmA2ClUvUY" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Mentioned at about minute 36 in lecture – "two twins babbling, demonstrative…"
@@ -159,7 +157,7 @@ Mentioned at about minute 36 in lecture – "two twins babbling, demonstrative�
 Supplemental video
 {{< tdclose >}}
 {{< tdopen >}}
-StanfordSCOPE. "Claude Steele on Stereotype Threat." Nov. 23, 2011. YouTube. Accessed March 9, 2012. [http://www.youtube.com/watch?v=vvwvvbiwRkg](http://www.youtube.com/watch?v=vvwvvbiwRkg)
+StanfordSCOPE. "Claude Steele on Stereotype Threat." Nov. 23, 2011. YouTube. Accessed March 9, 2012. {{% resource_link "8a340988-822b-4541-ac1c-e9d323922dd8" "http://www.youtube.com/watch?v=vvwvvbiwRkg" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Brief interview with Prof. Steele, whose research first identified the stereotype threat effect on acheivement gaps.
@@ -171,7 +169,7 @@ Brief interview with Prof. Steele, whose research first identified the stereotyp
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Ch. 9 "Types of Intelligence: What Does It Mean To Be Smart?" In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Ch. 9 "Types of Intelligence: What Does It Mean To Be Smart?" In {{% resource_link "6eb9ea0a-97a2-4e4b-b644-c6c5373611e7" "Kosslyn & Rosenberg, _Psychology in Context_, 3/e" %}} (Pearson, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook

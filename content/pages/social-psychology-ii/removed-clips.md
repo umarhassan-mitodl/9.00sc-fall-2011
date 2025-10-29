@@ -17,7 +17,7 @@ Removed Clip 1: "The Crying Indian" Commercial
 
 {{< resource 58357d15-9e34-6339-67e6-ae987a2277af >}}
 
-This video is from [coffeekid99](http://www.youtube.com/user/coffeekid99) via YouTube, and is not covered under our [Creative Commons license](/terms/#cc).
+This video is from {{% resource_link "d6e766d3-edbf-434e-8236-f8ef1c7fba48" "coffeekid99" %}} via YouTube, and is not covered under our [Creative Commons license](/terms/#cc).
 
 Removed Clip 2: Heider-Simmel demonstration
 -------------------------------------------
@@ -26,6 +26,6 @@ This video is not the same as the one showed in class, but demonstrates the same
 
 {{< resource 480cc964-5664-3825-6628-d72c5a51b4eb >}}
 
-This video is from [drwilliamashton](https://www.youtube.com/user/drwilliamashton) via YouTube, and is not covered under our [Creative Commons license](/terms/#cc).
+This video is from {{% resource_link "bb684ea7-8f3e-4344-85cf-1360be4f73ef" "drwilliamashton" %}} via YouTube, and is not covered under our [Creative Commons license](/terms/#cc).
 
 « {{% resource_link 25a2c26c-7f10-9797-3af3-7971963c5415 "Previous" %}}

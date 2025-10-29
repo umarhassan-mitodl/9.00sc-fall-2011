@@ -24,7 +24,7 @@ Today we'll talk about psychological disorders, or _psychopathology_. It's a rea
 
 A psychological disorder is a mental condition characterized by symptoms that create significant distress, impairing work, family, school, and/or relationships, and leading to significant risk of harm. The symptoms of these disorders are cognitive, emotional, and behavioral.
 
-The _Diagnostic and Statistical Manual of Mental Disorders_ (DSM) \[[Wikipedia: DSM](http://en.wikipedia.org/wiki/Diagnostic_and_Statistical_Manual_of_Mental_Disorders)\] is the tool that psychiatrists and clinical psychologists have today for diagnosing individuals who have aberrant behavior. It's a structured list of symptoms for the disorder, but it's not biomarkers – there's no blood test for intermittent explosive disorder or schizophrenia. It's things that people report thinking or feeling, or behaviors that others report. But there aren't hard and fast rules for each diagnosis.
+The _Diagnostic and Statistical Manual of Mental Disorders_ (DSM) \[{{% resource_link "72889e61-59c7-4ca7-8afa-7b9f77956f9d" "Wikipedia: DSM" %}}\] is the tool that psychiatrists and clinical psychologists have today for diagnosing individuals who have aberrant behavior. It's a structured list of symptoms for the disorder, but it's not biomarkers – there's no blood test for intermittent explosive disorder or schizophrenia. It's things that people report thinking or feeling, or behaviors that others report. But there aren't hard and fast rules for each diagnosis.
 
 So let's talk a little about the DSM. What does it feel like to have a book of diagnostic criteria like this? Does this seem like a good strategy from a medical standpoint?
 

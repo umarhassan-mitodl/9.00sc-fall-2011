@@ -24,7 +24,7 @@ What stresses you out? What is stress and how does it affect our body? In this l
 
 _Keywords_: PTSD, post traumatic stress disorder, stress, embodied cognition, emotional pain, type a personality, ulcers, stress and mortality, stereotype stress
 
-_Stress balls are marketed as a coping mechanism for stress. (Image by [Weas Frikis](http://www.flickr.com/photos/weasfrikis/) on Flickr. License: CC-BY-NC-SA.)_
+_Stress balls are marketed as a coping mechanism for stress. (Image by {{% resource_link "3d3cbeb3-d268-473d-9724-9fd6091d7b50" "Weas Frikis" %}} on Flickr. License: CC-BY-NC-SA.)_
 
 
 {{< tdclose >}}
@@ -149,7 +149,7 @@ Book that Prof. Gabrieli recommends in class
 Participate in research
 {{< tdclose >}}
 {{< tdopen >}}
-Project Implicit{{< sup "®" >}} Implicit Association Tests, [http://implicit.harvard.edu/](http://implicit.harvard.edu/).
+Project Implicit{{< sup "®" >}} Implicit Association Tests, {{% resource_link "7c89f385-dc5f-4ba2-b439-12fdd65b6bcd" "http://implicit.harvard.edu/" %}}.
 {{< tdclose >}}
 {{< tdopen >}}
 Educational resource and research site for investigations in implicit social cognition, including more demonstrations and opportunities to participate in ongoing research.
@@ -161,7 +161,7 @@ Educational resource and research site for investigations in implicit social cog
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Ch. 13, "Stress, Health, and Coping : Dealing With Life." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Ch. 13, "Stress, Health, and Coping : Dealing With Life." In {{% resource_link "6eb9ea0a-97a2-4e4b-b644-c6c5373611e7" "Kosslyn & Rosenberg, _Psychology in Context_, 3/e" %}} (Pearson, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook

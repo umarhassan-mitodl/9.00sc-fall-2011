@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Social Psychology I
@@ -26,7 +24,7 @@ What is social psychology? What is the relationship between attitude and behavio
 
 _Keywords_: dispositional versus situational attribution, cognitive busyness, Stanford Prison Experiment, Milgram Obedience Experiment, Pfc. England, conformity, compliance, obedience, the bystander effect
 
-_A crowd demonstrating a wide range of social behavior. (Image by [Sreejith K](http://www.flickr.com/people/57441548@N00) on Flickr. License: CC-BY.)_
+_A crowd demonstrating a wide range of social behavior. (Image by {{% resource_link "60baf6e8-2cf0-4370-8761-2faaeb18028a" "Sreejith K" %}} on Flickr. License: CC-BY.)_
 
 
 {{< tdclose >}}
@@ -110,7 +108,7 @@ CONTEXT
 Supplemental textbook
 {{< tdclose >}}
 {{< tdopen >}}
-[_Principles of Social Psychology_ (PDF - 6.5MB)](http://www.saylor.org/site/textbooks/Principles%20of%20Social%20Psychology.pdf)
+{{% resource_link "d2d61cdd-7cc3-453d-883d-2d035f96f559" "_Principles of Social Psychology_ (PDF - 6.5MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Creative Commons-licensed online textbook
@@ -122,7 +120,7 @@ Creative Commons-licensed online textbook
 Interactive map
 {{< tdclose >}}
 {{< tdopen >}}
-[World Map of Hofstede's Individualism Scores](https://www.hofstede-insights.com/product/compare-countries/)
+{{% resource_link "c2e2bb55-2d29-47e5-85b5-b297dc05e758" "World Map of Hofstede's Individualism Scores" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Interactive map showing worldwide individualism scores mentioned in lecture
@@ -134,7 +132,7 @@ Interactive map showing worldwide individualism scores mentioned in lecture
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Chapter 16, "Social Psychology: Meeting of the Minds" in [Study Site for _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson Education, 2007)
+Study materials for Chapter 16, "Social Psychology: Meeting of the Minds" in {{% resource_link "6eb9ea0a-97a2-4e4b-b644-c6c5373611e7" "Study Site for _Psychology in Context_, 3/e" %}} (Pearson Education, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg

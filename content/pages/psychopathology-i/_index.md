@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Psychopathology I
@@ -26,7 +24,7 @@ What is psychopathology? Why is psychopathology important? During this lesson, w
 
 _Keywords_: psychopathology, mental disorders, Tourette's, schizophrenia, antipsychotic medication, diagnosis, lobotomy, genetic predispositions, dopamine
 
-_An embroidered cloth made by a patient diagnosed with schizophrenia. (Image by [cometstarmoon](http://www.flickr.com/photos/calistan/) on Flickr. License: CC-BY.)_
+_An embroidered cloth made by a patient diagnosed with schizophrenia. (Image by {{% resource_link "c2d32eee-db08-46d5-a102-697ca67aef3d" "cometstarmoon" %}} on Flickr. License: CC-BY.)_
 
 
 {{< tdclose >}}
@@ -116,7 +114,7 @@ CONTEXT
 Web resource
 {{< tdclose >}}
 {{< tdopen >}}
-National Institute of Mental Health's [page on schizophrenia](http://www.nimh.nih.gov/health/publications/schizophrenia/index.shtml)
+National Institute of Mental Health's {{% resource_link "35cd82f1-c01d-44f0-b4c4-dc52e5b2ea0d" "page on schizophrenia" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Includes a description of the symptoms, causes, and treatments of schizophrenia
@@ -128,7 +126,7 @@ Includes a description of the symptoms, causes, and treatments of schizophrenia
 Web resource
 {{< tdclose >}}
 {{< tdopen >}}
-[PubMed Health Medical Encyclopedia](https://www.ncbi.nlm.nih.gov/pubmed/), by the U.S. National Library of Medicine
+{{% resource_link "ab86bf16-6086-47c4-81c3-4fc83e00e766" "PubMed Health Medical Encyclopedia" %}}, by the U.S. National Library of Medicine
 {{< tdclose >}}
 {{< tdopen >}}
 Good medical diagnostic and background information, including mental disorders
@@ -140,7 +138,7 @@ Good medical diagnostic and background information, including mental disorders
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Ch. 14, "Psychological Disorders: More Than Everyday Problems." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Ch. 14, "Psychological Disorders: More Than Everyday Problems." In {{% resource_link "6eb9ea0a-97a2-4e4b-b644-c6c5373611e7" "Kosslyn & Rosenberg, _Psychology in Context_, 3/e" %}} (Pearson, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook

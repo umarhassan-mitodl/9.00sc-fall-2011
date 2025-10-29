@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Learning
@@ -123,7 +121,7 @@ CONTEXT
 Supplemental reading
 {{< tdclose >}}
 {{< tdopen >}}
-[An online version](http://psychclassics.yorku.ca/Thorndike/Animal/) of Thorndike, E. _Animal Intelligence: Experimental Studies_. The Macmillan Company, 1911. Accessed via "[Classics in the History of Psychology](http://psychclassics.yorku.ca/index.htm)" by C. Green.
+{{% resource_link "1e3729d5-b2fd-4029-8b73-8c7042f81514" "An online version" %}} of Thorndike, E. _Animal Intelligence: Experimental Studies_. The Macmillan Company, 1911. Accessed via "{{% resource_link "2c7413a3-bcef-4dcc-aa4e-02a2cd3c5aa2" "Classics in the History of Psychology" %}}" by C. Green.
 {{< tdclose >}}
 {{< tdopen >}}
 Book written by Thorndike touching on several topics discussed in lecture
@@ -135,7 +133,7 @@ Book written by Thorndike touching on several topics discussed in lecture
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Ch. 6 "Learning: How Experience Changes Us." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Ch. 6 "Learning: How Experience Changes Us." In {{% resource_link "6eb9ea0a-97a2-4e4b-b644-c6c5373611e7" "Kosslyn & Rosenberg, _Psychology in Context_, 3/e" %}} (Pearson, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook

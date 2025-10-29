@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Vision I
@@ -111,7 +109,7 @@ CONTEXT
 Website
 {{< tdclose >}}
 {{< tdopen >}}
-[Schiller Lab](http://web.mit.edu/bcs/schillerlab/)
+{{% resource_link "de53df36-c07e-4ed8-8f03-a57c5c476f4e" "Schiller Lab" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lab focused on the workings of the visual and oculomotor systems of human and non-human primates.
@@ -123,7 +121,7 @@ Lab focused on the workings of the visual and oculomotor systems of human and no
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Chapter 3, "Psychology Sensation and Perception: How the World Enters the Mind," in [Study Site for _Psychology in Context_](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page), 3/e (Pearsonn Education, 2007)
+Study materials for Chapter 3, "Psychology Sensation and Perception: How the World Enters the Mind," in {{% resource_link "6eb9ea0a-97a2-4e4b-b644-c6c5373611e7" "Study Site for _Psychology in Context_" %}}, 3/e (Pearsonn Education, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg

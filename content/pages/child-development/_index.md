@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Child Development
@@ -26,7 +24,7 @@ Do you remember your life as a young child? What capabilities to infants have? W
 
 _Keywords_: child development, Piaget, nature/nurture, neotony
 
-_Photo courtesy of [Adam Baker](http://www.flickr.com/photos/atbaker/3350580540) on Flickr. CC-BY._
+_Photo courtesy of {{% resource_link "33d010ef-40e2-4f4b-979f-a06764aca623" "Adam Baker" %}} on Flickr. CC-BY._
 
 
 {{< tdclose >}}
@@ -133,7 +131,7 @@ CONTEXT
 Webpage
 {{< tdclose >}}
 {{< tdopen >}}
-[Infant Cognition Lab](http://labs.psychology.illinois.edu/infantlab/)
+{{% resource_link "97c0bc88-d054-4929-ba80-d0a76c94d76e" "Infant Cognition Lab" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 A University of Illinois lab, headed by Dr. Renée Baillargeon, focusing on cognitive development during the first three years of life.
@@ -145,7 +143,7 @@ A University of Illinois lab, headed by Dr. Renée Baillargeon, focusing on cogn
 Article
 {{< tdclose >}}
 {{< tdopen >}}
-Scott, Paul. "[Kid Rock](http://www.nytimes.com/2006/04/02/magazine/02wiggles.html?pagewanted=all)." New York Times Magazine. April 2, 2006.
+Scott, Paul. "{{% resource_link "b9b5b82f-c770-4118-9c8d-45d106ec0b18" "Kid Rock" %}}." New York Times Magazine. April 2, 2006.
 {{< tdclose >}}
 {{< tdopen >}}
 An article on "The Wiggles," a music group that writes music and performs for young children.
@@ -157,7 +155,7 @@ An article on "The Wiggles," a music group that writes music and performs for yo
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Ch. 12 "Psychology Over the Lifespan: Growing Up, Growing Older, Growing Wiser." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Ch. 12 "Psychology Over the Lifespan: Growing Up, Growing Older, Growing Wiser." In {{% resource_link "6eb9ea0a-97a2-4e4b-b644-c6c5373611e7" "Kosslyn & Rosenberg, _Psychology in Context_, 3/e" %}} (Pearson, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook

@@ -13,12 +13,12 @@ uid: 1b1519bf-3d32-3eea-62e8-361e4ee1395a
 
 « {{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Previous" %}} | {{% resource_link ad8e2a55-5c0f-805b-1c0f-5cda0d5fc9b9 "Next" %}} »
 
-This page content is courtesy of the [McGovern Institute for Brain Research](http://mcgovern.mit.edu), used with permission.
+This page content is courtesy of the {{% resource_link "34ff05bf-1c72-4d25-9cc7-75913454ee5e" "McGovern Institute for Brain Research" %}}, used with permission.
 
 Biography
 ---------
 
-John Gabrieli is the director of the Athinoula A. Martinos Imaging Center at MIT's [McGovern Institute for Brain Research](http://mcgovern.mit.edu/). He is an Investigator at the Institute, with faculty appointments in the Department of Brain and Cognitive Sciences and the Harvard-MIT Division of Health Sciences and Technology, where he holds the Grover Hermann Professorship. He also co-directs the MIT Clinical Research Center and is Associate Director of the Athinoula A. Martinos Center for Biomedical Imaging, MGH/MIT, located at Massachusetts General Hospital. Prior to joining MIT, he spent 14 years at Stanford University in the Department of Psychology and Neurosciences Program. Since 1990, he has served as Visiting Professor, Department of Neurological Sciences, Rush-Presbyterian-St. Luke's Hospital and Rush Medical College. He received a Ph.D. in Behavioral Neuroscience in the MIT Department of Brain and Cognitive Sciences in 1987 and B.A. in English from Yale University in 1978.
+John Gabrieli is the director of the Athinoula A. Martinos Imaging Center at MIT's {{% resource_link "9fc3fa27-a4fc-4b29-a7b9-259b3fdfedf4" "McGovern Institute for Brain Research" %}}. He is an Investigator at the Institute, with faculty appointments in the Department of Brain and Cognitive Sciences and the Harvard-MIT Division of Health Sciences and Technology, where he holds the Grover Hermann Professorship. He also co-directs the MIT Clinical Research Center and is Associate Director of the Athinoula A. Martinos Center for Biomedical Imaging, MGH/MIT, located at Massachusetts General Hospital. Prior to joining MIT, he spent 14 years at Stanford University in the Department of Psychology and Neurosciences Program. Since 1990, he has served as Visiting Professor, Department of Neurological Sciences, Rush-Presbyterian-St. Luke's Hospital and Rush Medical College. He received a Ph.D. in Behavioral Neuroscience in the MIT Department of Brain and Cognitive Sciences in 1987 and B.A. in English from Yale University in 1978.
 
 Research
 --------

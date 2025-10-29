@@ -36,7 +36,7 @@ _Phonology_ is the structure of the sounds that make up the words of a language.
 But think about two things. One, there's a lot of sounds that we can make (whistles, coughs, snorts, etc.) that aren't linguistic. Two, there's incredible variety in how the people around us pronounce the "same" sound. Think about people speaking with different accents, or how you sound when you have a cold. How does the brain handle this?
 
 Listen to Tyler describe and demonstrate the phenomenon of _categorical perception_: ({{% resource_link d5adcb19-ef26-a39e-2de7-c3a6ec704258 "MP3" %}}) (0:02:40)  
-(Includes recorded demonstrations of "bad/bat" and "slash/splash" courtesy of UCLA Phonetics Lab, used with permission. The original recordings, and many others like them, are available at Peter Ladefoged's website [Vowels and Consonants](http://www.phonetics.ucla.edu/vowels/chapter10/percpetial.html).)
+(Includes recorded demonstrations of "bad/bat" and "slash/splash" courtesy of UCLA Phonetics Lab, used with permission. The original recordings, and many others like them, are available at Peter Ladefoged's website {{% resource_link "b61a3c7a-6a6b-49d0-96da-e26f50bf1661" "Vowels and Consonants" %}}.)
 
 Demonstration
 -------------
@@ -47,7 +47,7 @@ First, play the video with your eyes closed. Make note of what the man is saying
 
 {{< resource cc04c3df-00e4-a6a7-e7ff-30a257dd9eea >}}
 
-This video is from [hmcnally](http://www.youtube.com/watch?feature=player_embedded&v=aFPtc8BVdJk) on YouTube and is not provided under our [Creative Commons license](/terms/).
+This video is from {{% resource_link "52d4d37f-2074-4ef7-92e1-54b37909bb47" "hmcnally" %}} on YouTube and is not provided under our [Creative Commons license](/terms/).
 
 Second, play the video again with your eyes open. Now what is he saying?
 

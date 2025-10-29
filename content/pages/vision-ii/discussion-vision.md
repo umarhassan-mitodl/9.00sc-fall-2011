@@ -50,7 +50,7 @@ Demonstrations
 
 ### Color Vision
 
-Please load [this link](http://moillusions.com/wp-content/uploads/2006/06/johnsadowski_castle_anim.gif). Stare at the black dot. Please try not to blink.
+Please load {{% resource_link "f074dcf7-a46c-4d1e-b7fc-971487dc4e4d" "this link" %}}. Stare at the black dot. Please try not to blink.
 
 The Big Spanish Castle
 
@@ -70,7 +70,7 @@ What is happening with this giant child and her tiny father?
 
 {{< resource d45166c8-31a4-8fe5-fdf3-61352e4e43f1 >}}
 
-Photo courtesy of [Keith Uden](http://www.flickr.com/photos/keithu/5954770994/) on Flickr.
+Photo courtesy of {{% resource_link "48b632f8-fc21-4de5-85b7-b8f95697b6a8" "Keith Uden" %}} on Flickr.
 
 This scene was designed to trick your eyes into seeing the adult (who is in the distance) as smaller than the kid. Our brain knows certain things about the world: That squares are square, and that floors and ceilings are parallel. These are facts about the world that allow us to interpret what we see. However, everything in this room is slanted. This illusion is interesting because the size information given by the depth cues (texture and perspective) contradict what we know about the actual size of people.
 
@@ -80,7 +80,7 @@ What do you see in the image below?
 
 {{< resource 06351388-2d91-1596-036d-c5afb3454952 >}}
 
-Courtesy of Elsevier, Inc., [http://www.sciencedirect.com](http://www.sciencedirect.com). Used with permission. R.C. James, as seen in Tai Sing Lee (2003). Computations in the early visual cortex. Journal of Physiology 97, 121-139. Retrieved from ([PDF - 1.2MB](http://www.cnbc.cmu.edu/~tai/papers/journal_phys.pdf))
+Courtesy of Elsevier, Inc., {{% resource_link "4af5f1e8-47c3-4166-bd64-0df850c66797" "http://www.sciencedirect.com" %}}. Used with permission. R.C. James, as seen in Tai Sing Lee (2003). Computations in the early visual cortex. Journal of Physiology 97, 121-139. Retrieved from ({{% resource_link "20944ace-c1ec-417c-9c6b-476a32650163" "PDF - 1.2MB" %}})
 
 Do you see it?
 
@@ -100,7 +100,7 @@ Who are these people?
 
 {{< resource 0565a639-af78-a5ad-4f0d-f0943cfdcbeb >}}        {{< resource 8068a14a-b2ab-4513-5718-b3451c50b594 >}}
 
-Reprinted by permission from Macmillan Publishers Ltd: Nature. Source: Sinha, Pawan, and Tomaso Poggio. "[I Think I Know That Face...](http://www.nature.com/nature/journal/v384/n6608/abs/384404a0.html)" _Nature_ 384 (1996): 404. © 1996.
+Reprinted by permission from Macmillan Publishers Ltd: Nature. Source: Sinha, Pawan, and Tomaso Poggio. "{{% resource_link "3903d2be-2da9-44a0-9e5f-a03b1e8a97f1" "I Think I Know That Face..." %}}" _Nature_ 384 (1996): 404. © 1996.
 
 Al Gore and Bill Clinton, of course. Dick Cheney and George Bush, of course.
 

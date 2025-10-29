@@ -30,7 +30,7 @@ Social psychology is a broad field that asks questions such as:
 Demonstration
 -------------
 
-The Implicit Association Test (IAT) is a measure of the automatic association between two concepts. When two concepts are associated, it's easy to give the same response to examples of two related concepts, such as _flower_ and _pleasant_. When two concepts are not associated (such as _insect_ and _pleasant_), it's more difficult to give the same response. The best way to understand the IAT is to try it for yourself, for example at [Project Implicit{{< sup "®" >}}](https://implicit.harvard.edu/implicit/demo/).
+The Implicit Association Test (IAT) is a measure of the automatic association between two concepts. When two concepts are associated, it's easy to give the same response to examples of two related concepts, such as _flower_ and _pleasant_. When two concepts are not associated (such as _insect_ and _pleasant_), it's more difficult to give the same response. The best way to understand the IAT is to try it for yourself, for example at {{% resource_link "432a4c55-92b2-4992-ac3e-23893c964f4d" "Project Implicit<sup>®</sup>" %}}.
 
 The IAT has been widely used to study implicit biases for race, age, gender roles, and other social constructs, but it's not without its critics. Most obviously, people who take the IAT and are told that they have a bias against one race or one gender often protest that they do not. "What do you mean?" they say, "I don't believe that men should work and women should stay home! I know plenty of women who work, and I totally respect a man's choice to stay home. This test is not measuring my beliefs." What reasoning might psychologists use to counter this argument?
 
@@ -71,7 +71,7 @@ Men tended to rate women they believed were attractive more highly than women th
 
 ### Cognitive Dissonance
 
-_Cognitive dissonance_ refers to the discomfort we experience when we hold conflicting beliefs or engage in a behavior that conflicts with a belief. One of our principle motivations is the drive to reduce cognitive dissonance, which we often do by seeking out justification for our behavior. In [Festinger and Carlsmith's (1959) study](http://psychclassics.yorku.ca/Festinger/index.htm), participants completed an extremely boring task, and were then asked to recommend the task to another person as interesting and enjoyable. For this favor, one-third of participants were paid $20 (a good deal of money at the time), one-third were paid $1, and one-third were not asked to do the favor. When asked later, how did the three groups of participants rate their level of interest in the task? According to cognitive dissonance theory, why did they do so?
+_Cognitive dissonance_ refers to the discomfort we experience when we hold conflicting beliefs or engage in a behavior that conflicts with a belief. One of our principle motivations is the drive to reduce cognitive dissonance, which we often do by seeking out justification for our behavior. In {{% resource_link "42635b52-c744-4140-b5d9-2e2947c96832" "Festinger and Carlsmith's (1959) study" %}}, participants completed an extremely boring task, and were then asked to recommend the task to another person as interesting and enjoyable. For this favor, one-third of participants were paid $20 (a good deal of money at the time), one-third were paid $1, and one-third were not asked to do the favor. When asked later, how did the three groups of participants rate their level of interest in the task? According to cognitive dissonance theory, why did they do so?
 
 {{< div-with-class "reveal3">}}
 
@@ -89,7 +89,7 @@ In the wake of World War II, a number of psychologists began to study conformity
 
 {{< resource 185d3f8a-dae4-3377-f55b-abb0afad6d23 >}}
 
-© Nyenyec on [Wikipedia](http://en.wikipedia.org/wiki/File:Asch_experiment.png). Image uploaded under a CC-BY-SA/GNU Free Documentation License. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).
+© Nyenyec on {{% resource_link "c562694f-cb43-44b0-adee-a263ce8a0e26" "Wikipedia" %}}. Image uploaded under a CC-BY-SA/GNU Free Documentation License. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).
 
 In fact, all but one of the participants were in on it, and after giving several correct answers, these confederates began giving answers that were clearly wrong. What about the lone subject – did he go along with the group, or give the obviously correct answer?
 
